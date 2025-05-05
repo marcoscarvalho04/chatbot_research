@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain_openai
+langchain_core
+openai
+pypdf
+faiss-cpu
+python-dotenv
+arxiv
+duckduckgo-search
